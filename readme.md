@@ -16,7 +16,7 @@ Anaconda — это всё, что вам нужно и даже больше, �
 Miniconda не тянет с собой все пакеты, но требует от вас некоторых телодвижений:
 ```bash
 conda activate base
-conda install jupyter pandas matplotlib scimitar-learn
+conda install jupyter pandas matplotlib scikit-learn
 jupyter notebook
 ```
 
